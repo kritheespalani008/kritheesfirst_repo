@@ -1,1 +1,5 @@
-hi mr 
+list=['luffy','banana','zoro','sanji']
+message_tracked=list[-2].upper()
+message=f"my first repo and first code i added ,my favorit character is {message_tracked}"
+print(message)
+
